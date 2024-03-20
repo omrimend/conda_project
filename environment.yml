@@ -1,0 +1,10 @@
+name: rfb
+channels:
+  - defaults
+dependencies:
+  - requests
+  - python=3.8
+  - numpy
+  - pandas
+  - matplotlib
+  - scipy
