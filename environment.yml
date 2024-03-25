@@ -1,4 +1,4 @@
-name: rfb
+name: test
 channels:
   - anaconda
   - rdkit
